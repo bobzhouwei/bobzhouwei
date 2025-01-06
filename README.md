@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bobzhouwei
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning BIG DATA
+- 👀 I’m interested in JAVA, ASP.NET
+- 🌱 I’m currently learning BIG DATA, AI
 - 💞️ I’m looking to collaborate on ETL
 - 📫 How to reach me? -> bobo_shu888@hotmail.com 
 
